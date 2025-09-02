@@ -92,10 +92,12 @@ c.close()
 ```
 ## Output
 ### client.py
-<img width="457" height="115" alt="image" src="https://github.com/user-attachments/assets/7ab5dc96-4d5e-42dd-bae7-8f8aa86f0014" />
+<img width="661" height="179" alt="image" src="https://github.com/user-attachments/assets/27d3894d-55f9-41f8-a95b-2adf622de3ee" />
+
 
 ### server.py
-<img width="454" height="88" alt="image" src="https://github.com/user-attachments/assets/ac7e2869-ead3-48f6-b5cb-83e3a9d46dc0" />
+<img width="680" height="230" alt="image" src="https://github.com/user-attachments/assets/663a83ec-aed4-4009-986d-edfdda06b342" />
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
